@@ -1,1 +1,1 @@
-# Values, Types, and Operators
+# <div align="center>Values, Types, and Operators</div>
