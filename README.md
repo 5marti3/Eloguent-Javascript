@@ -22,7 +22,7 @@ I'm still learning git and github.
 ## Book structure
 
 ### Language
-- [ ] [Chapter 1 Values, Types, and Operators] (http://)
+- [ ] [Chapter 1 Values, Types, and Operators] (http://Hi)
 - [ ] [Chapter 2 Program Structure] (#)
 - [ ] [Chapter 3 Functions] (#)
 - [ ] [Chapter 4 Data Structures: Objects and Arrays] (#)
