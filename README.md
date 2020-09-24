@@ -19,6 +19,9 @@ I'm still learning git and github.
 
 ***
 
+## Book structure
+
+### Language
 - [ ] [Chapter 1 Values, Types, and Operators] (#)
 - [ ] [Chapter 2 Program Structure] (#)
 - [ ] [Chapter 3 Functions] (#)
@@ -31,6 +34,7 @@ I'm still learning git and github.
 - [ ] [Chapter 10 Modules] (#)
 - [ ] [Chapter 11 Asynchronous Programming] (#)
 - [ ] [Chapter 12 Project: A Programming Language] (#)
+### Browser
 - [ ] [Chapter 13 JavaScript and the Browser] (#)
 - [ ] [Chapter 14 The Document Object Model] (#)
 - [ ] [Chapter 15 Handling Events] (#)
@@ -38,5 +42,6 @@ I'm still learning git and github.
 - [ ] [Chapter 17 Drawing on Canvas] (#)
 - [ ] [Chapter 18 HTTP and Forms] (#)
 - [ ] [Chapter 19 Project: A Pixel Art Editor] (#)
+### Node
 - [ ] [Chapter 20 Node.js] (#)
 - [ ] [Chapter 21 Project: Skill-Sharing Website] (#)
