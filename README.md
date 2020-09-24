@@ -1,6 +1,5 @@
 # Welcome to my Repo
 
-## What is this?
 
 Hello!
 
