@@ -1,6 +1,5 @@
 # Welcome to my Repo
 
-
 Hello!
 
 I don't really have an aim with this repo other than documenting my readthrough of the book
@@ -22,8 +21,8 @@ I'm still learning git and github.
 
 ### Language
 
--   [ ] [Chapter 1 Values, Types, and Operators](https://github.com/5marti3/Eloguent-Javascript/blob/master/Chapter_1_Values%2C%20Types%2C%20and%20Operators/Chapter_1_Values%2C%20Types%2C%20and%20Operators.md)
--   [ ] [Chapter 2 Program Structure]()
+-   [x] [Chapter 1 Values, Types, and Operators](https://github.com/5marti3/Eloguent-Javascript/blob/master/Chapter_1_Values%2C%20Types%2C%20and%20Operators/Chapter_1_Values%2C%20Types%2C%20and%20Operators.md)
+-   [x] [Chapter 2 Program Structure](https://github.com/5marti3/Eloguent-Javascript/tree/master/2_Program_Structure)
 -   [ ] [Chapter 3 Functions]()
 -   [ ] [Chapter 4 Data Structures: Objects and Arrays]()
 -   [ ] [Chapter 5 Higher-order Functions]()
