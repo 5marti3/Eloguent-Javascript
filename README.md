@@ -21,7 +21,7 @@ I'm still learning git and github.
 
 ### Language
 
--   [x] [Chapter 1 Values, Types, and Operators](https://github.com/5marti3/Eloguent-Javascript/blob/master/Chapter_1_Values%2C%20Types%2C%20and%20Operators/Chapter_1_Values%2C%20Types%2C%20and%20Operators.md)
+-   [x] [Chapter 1 Values, Types, and Operators](https://github.com/5marti3/Eloguent-Javascript/tree/master/1_Values%2C%20Types%2C%20and%20Operators)
 -   [x] [Chapter 2 Program Structure](https://github.com/5marti3/Eloguent-Javascript/tree/master/2_Program_Structure)
 -   [ ] [Chapter 3 Functions]()
 -   [ ] [Chapter 4 Data Structures: Objects and Arrays]()
