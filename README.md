@@ -25,7 +25,7 @@ I'm still learning git and github.
 -   [x] [Chapter 2 Program Structure](https://github.com/5marti3/Eloguent-Javascript/tree/master/2_Program_Structure)
 -   [x] [Chapter 3 Functions](https://github.com/5marti3/Eloguent-Javascript/tree/master/3_Functions)
 -   [x] [Chapter 4 Data Structures: Objects and Arrays]()
--   [ ] [Chapter 5 Higher-order Functions]()
+-   [x] [Chapter 5 Higher-order Functions]()
 -   [ ] [Chapter 6 The Secret Life of Objects]()
 -   [ ] [Chapter 7 Project: A Robot]()
 -   [ ] [Chapter 8 Bugs and Errors]()
