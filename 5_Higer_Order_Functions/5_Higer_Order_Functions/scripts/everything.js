@@ -8,7 +8,7 @@ function everyLoop(array, f) {
 }
 
 function everySome(array, f) {
-	if (!(!array.some(f))) return true;
+	return !array.some(el => !f(el)) ;
 	
 
 
