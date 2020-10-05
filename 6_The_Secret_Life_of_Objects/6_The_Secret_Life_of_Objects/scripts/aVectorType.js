@@ -19,3 +19,4 @@ let vec1 = new Vec(2, 2);
 let vec2 = new Vec(2, 2);
 
 console.log(vec1.minus(vec2));
+console.log(vec1.length);
