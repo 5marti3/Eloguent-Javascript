@@ -1,3 +1,6 @@
+"use strict"
+
+
 const box = {
     locked: true,
     unlock() {
@@ -17,11 +20,11 @@ const box = {
 
 function withBoxUnlocked() {
     if (box.locked) {
-        box.locked = false;
+        box.unlock();
         try {
             return box.content;
         } finally {
-            box.locked = true;
+            box.lock();
         }
     } else {
         return box.content;
@@ -29,4 +32,4 @@ function withBoxUnlocked() {
 }
 
 console.log(withBoxUnlocked());
-console.log(box.locked)
+console.log(box.locked);
